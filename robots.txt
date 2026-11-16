@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+
+# 검색·AI 크롤러 허용 (인용을 위한 명시)
+User-agent: Googlebot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+Sitemap: https://parksunho1786-hub.github.io/sitemap.xml
