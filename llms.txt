@@ -8,7 +8,7 @@
 
 ## 주요 페이지
 - [홈](https://hueanswer.kr/): 대표 소개, 전문 분야(뇌혈관·심혈관 진단비 / 척추압박골절 후유장해 / 교통사고·배상책임·근재보험), 종결 사례, 진행 절차, 자주 묻는 질문
-- [부정맥 I49.1 진단비 3,100만 원 사례](https://hueanswer.kr/cases/arrhythmia-i49.html): 홀터 부담률 0.1% 미만 부지급 대응, 약관의 진단확정 요건
+- [부정맥 I49.1 진단비 3,100만 원 사례](https://hueanswer.kr/cases/arrhythmia-i49.html): 홀터 부담률 1% 미만 부지급 대응, 약관의 진단확정 요건
 - [경동맥 협착증 I65.2 4,510만 원 사례](https://hueanswer.kr/cases/carotid-stenosis-i65.html): 협착률 30% 경도·무증상 부지급 대응, 약관상 협착률 배제 기준 부재 및 반복 영상 정리
 - [계약 해지 원복 I65.2 4,250만 원 사례](https://hueanswer.kr/cases/policy-reinstatement-i65.html): 고지의무 해지·부지급 동시 통보 대응, '계속하여 30일' 요건과 청약 당시 질문표 작성·안내 경위 확인, 약관상 고지 대상과 사안별 인과관계 검토, 원복 후 진단비 재청구
 - [뇌내출혈 I61.9 7,500만 원 사례](https://hueanswer.kr/cases/hemangioma-i61.html): 해면상혈관기형종(Q28.3) 병기, 선천성 질환 면책 주장 대응
