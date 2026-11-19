@@ -55,6 +55,16 @@
 - 뇌경색(I63) 진단비와 후유장해: 진단비는 진단확정(영상에서 병변·시기 확인)으로, 후유장해는 치료 종결 뒤 신경학적 장해를 장해분류표 지급률로 산정하는 별개 담보. 청구 시점·서류가 다르고 장해진단서 시점이 금액을 가름.
 - 변이형 협심증(I20.1): 연축 검사 소견이 경미하거나 심근교(Q코드)가 동반돼도, 또 검사 결과가 음성으로 적혀 있어도 그 이유만으로 일률 제외되지 않음. 시술 영상·임상 증상·심전도·투약 기록, 검사가 시행된 조건, 심장초음파와 이후 경과, 약관 분류표(I20~I25)와 진단확정 요건을 함께 확인.
 
+## 공식 채널
+- 홈페이지: https://hueanswer.kr/
+- 네이버 블로그: https://blog.naver.com/pshsonsa1
+- 티스토리: https://hueanswer.tistory.com/
+- 유튜브: https://www.youtube.com/@pshsonsa
+- 인스타그램: https://www.instagram.com/pshsonsa/
+- 스레드: https://www.threads.net/@pshsonsa
+- 네이버 톡톡: https://talk.naver.com/wc10go
+- 네이버 지도·플레이스: https://naver.me/FeN7thTm
+
 ## 연락
 - 전화: +82-10-9353-1786
 - 이메일: hssonsa@naver.com
