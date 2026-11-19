@@ -419,8 +419,8 @@ main dd a,
 .article-body p a,
 .answer p a,
 .author-line a {
-  padding-top: 3px;
-  padding-bottom: 3px;
+  padding-top: 4px;
+  padding-bottom: 4px;
 }
 
 /* 목록·관련 사례처럼 링크가 한 줄을 차지하는 자리는 최소 24×24px 상자를 보장한다. */
