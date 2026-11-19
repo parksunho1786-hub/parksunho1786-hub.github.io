@@ -388,6 +388,11 @@ th, td { border-bottom: 1px solid var(--line); padding: 12px 14px; text-align: l
 thead th { background: var(--mist); color: var(--ink); font-weight: 700; font-size: 13.5px; }
 tbody th { font-weight: 600; color: var(--ink-soft); white-space: nowrap; }
 
+.article-body .blog-link {
+  margin-top: 26px; padding: 16px 18px; border: 1px solid var(--line); border-radius: var(--radius);
+  background: var(--mist); font-size: 15px; line-height: 1.7; color: var(--ink-soft);
+}
+
 .article-body .author-line {
   margin-top: 26px; padding-top: 16px; border-top: 1px dashed var(--line-strong);
   font-size: 14px; line-height: 1.7; color: var(--muted);
