@@ -410,6 +410,30 @@ tbody th { font-weight: 600; color: var(--ink-soft); white-space: nowrap; }
 .related ul { list-style: none; margin-top: 14px; padding: 0; display: grid; gap: 10px; }
 .related a { font-size: 15px; font-weight: 600; }
 
+/* ── 본문 텍스트 링크 터치 영역 (WCAG 2.2 AA 2.5.8 · 24×24px) ──────
+   문단 안의 링크는 인라인 상자를 그대로 두고 위아래 여백으로만 클릭 영역을
+   넓힌다. 줄 간격과 줄바꿈이 바뀌지 않아 본문 레이아웃이 흔들리지 않는다. */
+main p a,
+main td a,
+main dd a,
+.article-body p a,
+.answer p a,
+.author-line a {
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+/* 목록·관련 사례처럼 링크가 한 줄을 차지하는 자리는 최소 24×24px 상자를 보장한다. */
+main li > a,
+.related a,
+.case-link {
+  display: inline-block;
+  min-width: 24px;
+  min-height: 24px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
 /* ── 모바일 하단 고정 바 ────────────────────────────── */
 .mobile-bar { display: none; }
 @media (max-width: 760px) {
