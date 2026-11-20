@@ -390,6 +390,10 @@ ul, ol { margin: 0; padding: 0; }
   letter-spacing: .04em; margin-bottom: 6px;
 }
 .table-wrap { margin-top: 22px; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+/* 본문 읽는 폭(760px)보다 넓게 펼치는 표 — 넓은 화면에서만 오른쪽으로 넓힌다. */
+@media (min-width: 861px) {
+  .article-body .table-wrap.table-wide { width: calc(100% + 190px); max-width: 96vw; }
+}
 table { width: 100%; border-collapse: collapse; font-size: 14.5px; min-width: 480px; }
 caption { text-align: left; font-size: 13px; color: var(--muted); padding-bottom: 10px; }
 th, td { border-bottom: 1px solid var(--line); padding: 12px 14px; text-align: left; vertical-align: top; }
