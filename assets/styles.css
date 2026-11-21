@@ -90,7 +90,7 @@ ul, ol { margin: 0; padding: 0; }
 
 @media (min-width: 901px) and (max-width: 1120px) {
   /* 메뉴 항목이 늘어난 만큼 좁은 화면에서는 줄바꿈으로 흘려 가로 넘침을 막는다. */
-  .header-inner { flex-wrap: wrap; height: auto; min-height: 68px; padding: 10px 0; }
+  .header-inner { flex-wrap: wrap; height: auto; min-height: 68px; padding-top: 10px; padding-bottom: 10px; }
   .site-nav { gap: 16px; }
   .site-nav a { font-size: 14px; }
 }
